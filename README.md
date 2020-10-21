@@ -18,11 +18,11 @@ Self-taught Software Engineer, passionate about digital projects.
 
 ## Some statistics (Not working at the moment)
 
-| Thing | Last 24 hours | Last 7 day | Last month |
-| :------------------------------------------ | ----------: | -----------: | -----------: |
-| 💻 Coding | **5 hours 36 minutes** | **0 hour 0 minute** | **0 hour 0 minute** |
-| 🔧 Using Docker | **0 hour 19 minutes** | **0 hour 0 minute** | **0 hour 0 minute** |
-| 📺 Using my Terminal | **3 hours 22 minutes** | **0 hour 0 minute** | **0 hour 0 minute** |
+| Thing | Last month |
+| :------------------------------------------ | ----------: |
+| 💻 Coding | **0 hour 0 minute** |
+| 🔧 Using Docker | **0 hour 0 minute** |
+| 📺 Using my Terminal | **{first}** | 
 
 ## Contact
 
