@@ -20,9 +20,9 @@ Self-taught Software Engineer, passionate about digital projects.
 
 | Thing | Last 24 hours | Last 7 day | Last month |
 | :------------------------------------------ | ----------: | -----------: | -----------: |
-| 💻 Coding | **5 hours 11 min** | **16 hours 36 min** | **47 hours 2 min** |
-| 🔧 Using Docker | **0 hours** | **0 hours** | **0 hours** |
-| 📺 Using my Terminal | **0 hours** | **0 hours** | **0 hours** |
+| 💻 Coding | **{first}** | **{second}** | **{third}** |
+| 🔧 Using Docker | **{first}** | **{second}** | **{third}** |
+| 📺 Using my Terminal | **{first}** | **{second}** | **{third}** |
 
 ## Contact
 
