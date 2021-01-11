@@ -15,15 +15,6 @@ Self-taught Software Engineer, passionate about digital projects.
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
-
-## Some statistics (Not working at the moment)
-
-| Thing | Last month |
-| :------------------------------------------ | ----------: |
-| 💻 Coding | **2 hours 20 minutes** |
-| 🔧 Using Docker | **0 hour 0 minute** |
-| 📺 Using my Terminal | **0 hour 0 minute** | 
-
 ## Contact
 
 ✉️ sinyx.contact@gmail.com
