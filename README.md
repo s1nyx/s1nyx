@@ -1,6 +1,6 @@
 ### Hi there, welcome to my profile ! 👋
 
-Killian alias Sinyx, 18 years old, currently living in France. Currently CTO of Unknow.
+Killian alias Sinyx, 18 years old, currently living in France.
 
 Self-taught Software Engineer, passionate about digital projects.
 
