@@ -1,6 +1,6 @@
 ### Hi there, welcome to my profile ! 👋
 
-Killian alias Sinyx, 18 years old, currently living in France.
+Killian alias Sinyx, 19 years old, currently living in France.
 
 Self-taught Software Engineer, passionate about digital projects.
 
@@ -29,4 +29,4 @@ Self-taught Software Engineer, passionate about digital projects.
 
 ✉️ sinyx.studio@gmail.com
 
-🔍 https://sinyx.studio
+🔍 https://killianvincent.fr
