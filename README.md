@@ -1,8 +1,6 @@
 ### Hi there, welcome to my profile ! 👋
 
-Killian alias Sinyx, 19 years old, currently living in France.
-
-Self-taught Software Engineer, passionate about digital projects.
+In writing...
 
 ## What I used so far
 
