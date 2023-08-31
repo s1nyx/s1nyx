@@ -1,14 +1,11 @@
 ### Hi there, welcome to my profile ! 👋
 
-🚀 I'm a Computer Science student at IUT La Rochelle and entrepreneur, seeking a 12-month work-study program in France.
+🚀 I'm a Computer Science student in France.
 
-👨‍💼 I offer web and mobile app development, infrastructure management, custom tool development, and run an e-commerce site for digital products.
+👨‍💼 I run an e-commerce site for digital products.
 
 🤓 Passionate about learning, I have earned numerous certifications in various fields.
 
-🌟 I aim to join a dynamic company, contribute to its success, and grow my expertise.
-
-💪 If interested, let's connect and discuss work-study opportunities.
 
 ## What I used so far
 
