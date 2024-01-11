@@ -65,6 +65,6 @@
 
 ## Contact
 
-✉️ sinyx.studio@gmail.com
+✉️ contact@killianvincent.fr
 
 🔍 https://killianvincent.fr
