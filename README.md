@@ -1,12 +1,5 @@
 ### Hi there, welcome to my profile ! 👋
 
-🚀 I'm a Computer Science student in France.
-
-👨‍💼 I run an e-commerce site for digital products.
-
-🤓 Passionate about learning, I have earned numerous certifications in various fields.
-
-
 ## What I used so far in my projects
 
 ### Languages
